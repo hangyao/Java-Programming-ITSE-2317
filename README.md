@@ -2,9 +2,11 @@
 
 This folder contains the course projects of Java Programming ITSE-2317. 
 
-- Assignment 2: Word Game
+- Assignment 2: Word Game 
 
-- Assignment 3: Internet Service Provider
+-- `WordGame.java`
+
+- Assignment 3: Internet Service Provider 
 
 - Assignment 4: Hotel Occupancy
 
@@ -14,7 +16,7 @@ This folder contains the course projects of Java Programming ITSE-2317.
 
 - Assignment 7: World Series Champions
 
-- Assignment 8: Frist to One
+- Assignment 8: First to One
 
 - Assignment 9: Pig Latin
 
