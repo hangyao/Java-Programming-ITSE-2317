@@ -4,7 +4,7 @@ This folder contains the course projects of Java Programming ITSE-2317.
 
 - Assignment 2: Word Game 
 
--- `WordGame.java`
+ `WordGame.java`
 
 - Assignment 3: Internet Service Provider 
 
