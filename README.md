@@ -38,6 +38,8 @@ This folder contains the course projects of Java Programming ITSE-2317.
 
 - Assignment 9: Pig Latin
 
+ `PigLatin.java`
+
 - Assignment 10: Bank Account and Savings
 
 - Assignment 11: File Encryption Filter
