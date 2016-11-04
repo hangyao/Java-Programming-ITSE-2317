@@ -49,3 +49,7 @@ This folder contains the course projects of Java Programming ITSE-2317.
  `BankAccountDemo.java`
 
 - Assignment 11: File Encryption Filter
+
+ `FileEncryptionFilter.java`
+ 
+ `text.dat`
